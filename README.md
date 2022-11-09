@@ -1,5 +1,5 @@
-# Unit 6 Homework: What's the Weather Like?
-
+ What's the Weather Like?
+-------------------
 ## Background
 
 Whether financial, political, or social&mdash;data's true power rests in its ability to answer questions definitively. So, let's take what you've learned about Python requests, APIs, and JSON traversals to answer a fundamental question: "What's the weather like as we approach the equator?"
@@ -7,20 +7,7 @@ Whether financial, political, or social&mdash;data's true power rests in its abi
 Now, we know what you may be thinking: _"Duh. It gets hotter ..."_
 
 But, if pressed, how would you **prove** it?
-
-### Before You Begin
-
-1. Create a new repository for this project called `python-api-challenge`. **Do not add this homework to an existing repository**.
-
-2. Clone the new repository to your computer.
-
-3. Inside your local Git repository, create a directory for both of the Python challenges. Use a folder name that corresponds to the challenges, such as **WeatherPy**.
-
-4. Inside the folder you just created, add new files called `WeatherPy.ipynb` and `VacationPy.ipynb`. These will be the main scripts to run for each analysis.
-
-5. Push the above changes to GitHub.
-
-
+------------------------------
 ### Adding a .gitignore File
 
 We don't want the `api_keys.py` file containing the API key to be exposed to the public on GitHub; this would mean anyone could copy and use our API key, possibly incurring charges.
@@ -146,11 +133,6 @@ As final considerations:
 * Ensure your repository has regular commits and a thorough README.md file.
 
 * Lastly, remember that this is a challenging activity. Push yourself! If you complete this task, you can safely say that you've gained a strong understanding of the core foundations of data analytics, and it will only get better from here. Good luck!!!
-
-## Rubric
-
-[Unit 6 Homework Rubric](https://docs.google.com/document/d/1Y17QYjs0KMeEPPGd_1BpMjnqXiTaJVeFwqea5ReMdeU/edit?usp=sharing)
-
-- - -
+-------------------------------------
 
 © 2022 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
